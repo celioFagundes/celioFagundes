@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celioFagundes
-- 👀 I’m interested in Frontend developtment...
+- 👀 I’m interested in Frontend development...
 - 🌱 I’m currently learning React, Javascript
 
 <!---
