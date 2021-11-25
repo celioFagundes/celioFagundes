@@ -67,13 +67,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=celioFagundes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=celioFagundes&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioFagundes&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celioFagundes&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <br/>  
 
+  
 
+<br/>  
+
+  
+
+<br/>  
 
 <div align="center"></div>
 <br />
