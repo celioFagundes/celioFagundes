@@ -3,10 +3,10 @@
 ### <div align="center">I'm Celio, a ReactJS developer 👨‍💻🚀</div>  
   
 
-- 💻 I’m currently learning ReactJs, Javascript, NodeJs, ReactNative, Firebase  
+- 💻 I’m currently learning NextJs, NodeJS, Javascript,ReactNative, Firebase  
   
 
-- 📱 I'm currently working on my first ReactNative App  
+
   
 
 <br/>  
