@@ -3,7 +3,7 @@
 ### <div align="center">I'm Celio, a ReactJS developer 👨‍💻🚀</div>  
   
 
-- 💻 I’m currently learning NextJs, NodeJS, Javascript,ReactNative, Firebase  
+- 💻 I’m currently learning NextJs, NodeJS, Javascript,ReactNative, ExpressJs
   
 </p>
 Contact:</p>
