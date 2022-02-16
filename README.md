@@ -1,9 +1,9 @@
 
 
-### <div align="center">I'm Celio, a ReactJS developer 👨‍💻🚀</div>  
+### <div align="center">I'm Celio, a Javascript developer 👨‍💻🚀</div>  
   
 
-- 💻 I’m currently learning NextJs, NodeJS, Javascript,ReactNative, ExpressJs
+- 💻 I’m currently learning NextJs, NodeJS, NestJS ,ExpressJs, MySQL, GraphQL Javascript 
   
 </p>
 Contact:</p>
