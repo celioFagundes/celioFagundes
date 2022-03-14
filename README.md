@@ -3,7 +3,7 @@
 ### <div align="center">I'm Celio, a Javascript developer 👨‍💻🚀</div>  
   
 
-- 💻 I’m currently learning NextJs, NodeJS, NestJS ,ExpressJs, MySQL, GraphQL Javascript 
+- 💻 I’m currently learning NextJs, NestJS , Postgres, GraphQL, Typescript 
   
 </p>
 Contact:</p>
