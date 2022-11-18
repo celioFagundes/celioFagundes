@@ -1,7 +1,7 @@
 
 
 ## <div align="start">I'm Celio, a Javascript / Typescript developer 👨‍💻🚀</div>  
-  
+ - Currently working as Fullstack Typescript Developer at Teppa
  - 💻 I’m currently focusing on NextJS, Express, NestJS
  - Connect with me on linkedin https://linkedin.com/in/celiopieczarka
  - Contact me on my email celio_fagundes2@hotmail.com
